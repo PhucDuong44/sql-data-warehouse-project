@@ -30,7 +30,8 @@ The data flow starts with **source systems (CRM & ERP)**, where raw data is coll
 
 ---
 ## **Key Relationships and Integration:**  
-![image](https://github.com/user-attachments/assets/61a9d9e2-2aae-4b08-a748-bd647ff0833e)
+<img width="1522" height="861" alt="data_integration" src="https://github.com/user-attachments/assets/38bf5cb3-3e12-4991-a537-f428bbc2686f" />
+
 
 
 - **CRM Data** includes **sales transactions, customer details, and product history**.  
